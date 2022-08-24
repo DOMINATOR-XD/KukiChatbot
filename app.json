@@ -1,15 +1,15 @@
 {
     "name": "KukiChatBot",
     "description": "Hello, I am KUKI An Intelligent ChatBot. If You Are Feeling Lonely, You can Always Come to me and Chat With Me!",
-    "logo": "https://telegra.ph/file/a54ed27b0dc3fc3e439fd.jpg",
-    "repository": "https://github.com/MoeZilla/kukichatbot",
+    "logo": "https://te.legra.ph/file/be61f947098d561c77c98.jpg",
+    "repository": "https://github.com/dominator454/KukiChatbot",
     "env": {
         "BOT_TOKEN": {
             "description": "telegram bot token here",
             "required": true
         },
         "KUKI_API": {
-            "description": "join @metavoidsupport",
+            "description": "TOKEN PERA PAS BHI NHAI HAI YARR",
             "required": true
         },
         "ERROR_LOG": {
