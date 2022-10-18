@@ -9,7 +9,7 @@
             "required": true
         },
         "KUKI_API": {
-            "description": "TOKEN PERA PAS BHI NHAI HAI YARR",
+            "description": "TOKEN MERA PAS BHI NHAI HAI YARR",
             "required": true
         },
         "ERROR_LOG": {
