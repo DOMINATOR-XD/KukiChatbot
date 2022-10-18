@@ -11,6 +11,7 @@
         "KUKI_API": {
             "description": "TOKEN MERA PAS BHI NHAI HAI YARR",
             "required": true
+            "value": "5172662762-KUKIfK8KpN2YK5"
         },
         "ERROR_LOG": {
             "description": "error channel log id",
